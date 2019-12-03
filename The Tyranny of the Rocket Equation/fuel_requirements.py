@@ -8,7 +8,8 @@ def read_file(file: str) -> []:
 
 def calc_req(mass_list: str) -> int:
     sum_fuel = 0
-
+    # Test
+    test = 0
     for mass in mass_list:
         (int(mass) // 3)    
     
