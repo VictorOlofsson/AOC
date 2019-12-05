@@ -19,10 +19,6 @@ For example, if the first wire's path is R8,U5,L5,D3, then starting from the cen
 .o-------+.
 ...........
 ```
-<<<<<<< HEAD
-=======
-
->>>>>>> c43c88aaffa5a31977ef456edc8139e03c41e505
 Then, if the second wire's path is U7,R6,D4,L4, it goes up 7, right 6, down 4, and left 4:
 ```
 ...........
